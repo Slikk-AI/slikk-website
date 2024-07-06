@@ -1,0 +1,33 @@
+<?php
+
+namespace App\Http\Controllers;
+use Illuminate\Support\Facades\Http;
+use Illuminate\Http\Request;
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+use Illuminate\Support\Facades\Validator;
+use App\Models\Common;
+class VideoController extends Controller
+{
+     protected $Common;
+    public function __construct(Common $Common)
+    {
+		$this->Common = $Common;
+    }
+
+    function index(){
+        $url = url()->current();
+        $ReportData = $this->Common->getList('mr_page', 'title', 'video');
+		$data['report_data'] = $ReportData[0];
+		//print_r($data['report_data']);
+		// $Id = $data['report_data']->id;
+        $data['meta_title'] = $data['report_data']->meta_title;
+		$data['meta_keywords'] = $data['report_data']->meta_description;
+		$data['meta_description'] = $data['report_data']->meta_keywords;
+		$data['bottom_content'] = $data['report_data']->description;
+		$data['reportFaqDetail'] =  $this->Common->getList('mr_report_faq', 'url', $ReportData[0]->url);
+		//echo $url;
+		//     exit;
+		return view('frontend/pages/video',$data);
+    }
+}

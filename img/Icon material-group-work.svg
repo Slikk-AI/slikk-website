@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99.095" height="99.095" viewBox="0 0 99.095 99.095">
+  <defs>
+    <filter id="Icon_material-group-work" x="0" y="0" width="99.095" height="99.095" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_material-group-work)">
+    <path id="Icon_material-group-work-2" data-name="Icon material-group-work" d="M43.548,3A40.548,40.548,0,1,0,84.1,43.548,40.562,40.562,0,0,0,43.548,3ZM27.329,65.849A10.137,10.137,0,1,1,37.465,55.712,10.141,10.141,0,0,1,27.329,65.849Zm6.082-38.52A10.137,10.137,0,1,1,43.548,37.465,10.141,10.141,0,0,1,33.411,27.329Zm26.356,38.52A10.137,10.137,0,1,1,69.9,55.712,10.141,10.141,0,0,1,59.767,65.849Z" transform="translate(6 3)" fill="#5433ff"/>
+  </g>
+</svg>

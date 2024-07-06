@@ -1,0 +1,486 @@
+@import url('https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@300&display=swap');
+
+
+:root {
+    /* --bg-start: #242424;
+    --bg-end: #0f133b; */
+
+    --bg-start: #FFFFFF;
+    --fg-color: #242424;
+    --bg-end: #0f133b;
+  
+    --highlight-fg: #161c49;
+    --highlight-primary: #73fff5;
+    --highlight-secondary: #cf0389;
+  
+    /* --fg-color: #FFFFFF; */
+  
+    --transition: 250ms ease-out;
+  }
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+html {
+    color: var(--fg-color);
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+body {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    color: var(--fg-color);
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  
+    min-height: 100vh;
+    background: var(--bg-start);
+}
+.carousel-item{
+    height: 458px;
+}
+
+.banner_content {
+
+    padding-left: 50px;
+}
+.container-fluid{
+    padding-right: var(--bs-gutter-x,1.5rem);
+    padding-left: var(--bs-gutter-x,1.5rem);
+}
+.header {
+    overflow: hidden;
+    padding: 20px 10px;
+}
+.heading-title{
+    padding: 12px;
+}
+#borderBottom{
+    border-bottom: 1px solid #707070;
+    margin: 10px 0px
+}
+.join_waitlist{
+    padding: 12px 45px;
+    border: 3px solid #3109ff;
+    color: #3109ff;
+    border-radius: 34px;
+    font-size: 12px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+}
+.logo{
+    height: 34px;
+}
+.join_waitlist_blue{
+    padding: 12px 70px;
+    border: 3px solid #3109ff;
+    background-color: #3109ff;
+    color: var(--fg-color);
+    border-radius: 28px;
+    font-size: 12px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color:#fff;
+}
+.banner_content{
+    position: relative;
+}
+.banner_text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2vw;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.banner_text span{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel img{
+    /* max-height: 500px; */
+}
+footer{
+    color: #929292;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 50px;
+}
+footer ul li:first-child{
+    padding-right: 50px;
+}
+.align-right{
+    text-align: right;
+}
+.modal-content{
+    background-color:#5433FF;
+}
+.modal-footer{
+    border-top: none;
+}
+.modal-body, .modal-header{
+    border-bottom: none;
+}
+.modal-header{
+    padding: 28px 0px 20px 0px;
+}
+.modal-body p{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 21px;
+    font-size: 15px;
+    font-size: 12px;
+    padding: 0px 26px;
+    color: #fff;
+}
+.modal-title{
+    text-align: center;
+    font-size: 16px;
+    color: 2B8FF3;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+.btn-close{
+    position: absolute;
+    right: 18px;
+    font-size: 15px;
+}
+.error{
+    font-size: 11px;
+    color: red;
+    text-transform: capitalize;
+}
+/************** OTP modal css ******************/
+.otp_title{
+    padding-left: 14%;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+.custom-form-control {
+  -webkit-transition: none;
+  transition: none;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  margin: 2px;
+}
+
+.custom-form-control:focus {
+  color: #3F4254;
+  background-color: #ffffff;
+  border-color: #884377;
+  outline: 0;
+}
+
+.custom-form-control.form-control-solid {
+  background-color: #757575;
+  border-color: #F3F6F9;
+  color: #ffff;
+  transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.custom-form-control.form-control-solid:active,
+.custom-form-control.form-control-solid.active,
+.custom-form-control.form-control-solid:focus,
+.custom-form-control.form-control-solid.focus {
+  background-color: #757575;
+  border-color: #EBEDF3;
+  color: #ffff;
+  transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+#otp{
+    justify-content: center;
+}
+/************************* Join modal ***************/
+.joining-form{
+    text-align: left;
+}
+.form-label{
+    color: #DCDCDC;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+.joining-form .form-control{
+    background: #fff;
+    border: #fff;
+    width: 100%;
+    padding: 7px 7px;
+    color: #766f6f;
+    font-size: 17px;
+    /* font-family: 'Poppins', sans-serif; */
+}
+
+#std{
+    text-align: center;
+    padding: 7px 8px 7px 26px;
+}
+.mobile_icon{
+    padding: 12px 1px 12px 5px;
+    width: 24px;
+    position: absolute;
+}
+
+.modal {
+    text-align: center;
+  }
+.modal-dialog {
+    display: flex;
+    align-items: center;
+    min-height: calc(100% - 0rem);
+}
+.modal-content{
+    margin: 18px;
+    border: 1px solid #5433FF;
+}
+.success_msg{
+    word-spacing: 0px;
+    font-size: 14px;
+    margin: 20% 0px;
+}
+.join_waitlist_blue:hover, .join_waitlist_blue:active, .join_waitlist_blue:visited {
+    text-decoration: none;
+}
+.terms{
+    padding-right: 24px;
+}
+.privacy{
+    list-style: disc;
+    padding-left: 24px;
+}
+/***************************** privacy***************/
+
+.main{
+    padding-top: 50px;
+}
+.last-update{
+    font-style: italic;
+    margin-bottom: 42px;
+}
+.term-use{
+    padding: 20px 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.main ul{
+    list-style: disc;
+    padding-left: 2rem;
+}
+.main p{
+    margin-bottom: 2rem;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.btn-close{
+    background-image: url('./img/Design/Icon-close.png');
+}
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+@media (max-width: 1024px) {
+    .banner_text{
+        /* font-size: 2vw; */
+    }
+    .join_waitlist_blue, .join_waitlist{
+        font-size: 10px;
+    }
+} 
+@media (max-width: 768px) { 
+    body{
+        padding: 2rem 0px;
+    }
+    .banner_content{
+        width: 100%;
+    }
+    .no-mobile{
+        display: none;
+    }
+    .container-fluid{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .header{
+        text-align: center;
+        padding: 0px;
+        padding: 0px 0px 14px;
+        border-bottom: 0.5px solid #707070;
+        margin: 0px 20px;
+    }
+    .banner{
+        display: flex;
+        flex-flow: column-reverse;
+        margin-top: 40px;
+    }
+    .banner_content{
+        margin-top: 30px;
+    }
+    .banner_text{
+        font-size: 20px;
+        text-align: center;
+        position: inherit;
+        top: 0;
+        -ms-transform: translateY(-50%);
+        transform: translateY(0);
+    }
+    .img-slides{
+        padding: 0px;
+    }
+    footer{
+        text-align: center;
+        padding-top: 120px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+    }
+    footer ul{
+        padding-top: 15px;
+    }
+    .terms{
+        padding-right: 50px;
+    }
+    .privacy{
+        padding-left: 20px;
+    }
+    .align-right{
+        text-align: center;
+    }
+    .col-md-3{
+        width: 27%;
+    }
+    .col-md-9{
+        width: 73%;
+    }
+    .modal-body p{
+        padding: 0px;
+    }
+    #otp{
+        justify-content: none;
+    }
+    .custom-form-control {
+        margin: 5px;
+        width: 40px;
+        height: 40px;
+    }
+    .join_waitlist_blue {
+        padding: 20px 115px;
+        font-size: 16px;
+        border-radius: 33px;
+    }
+    .modal-footer .join_waitlist_blue{
+        font-size: 12px;
+        padding: 17px 22px;
+        border: 1px solid #707070;
+    }
+    .modal-logo{
+        width: 32%;
+    }
+    
+}
+@media (max-width: 428px) { 
+    
+    .col-md-3{
+        width: 30%;
+    }
+    .col-md-9{
+        width: 70%;
+        padding-left:0px;
+    }
+    .margin-bottom-res{
+        margin-bottom: 8px;
+    }
+    footer{
+        font-size: 12px;
+        padding-top: 100px;
+    }
+    .modal-body p{
+        padding: 0px 42px 19px 42px;
+    }
+    .carousel-item{
+        height: 358px;
+    }
+    .success_msg{
+        margin: 25% 0px 44%;
+    }
+    .modal-logo{
+        width: 40%;
+        padding-top: 20%;
+    }
+    
+ }
+
+@media (max-width: 415px) { 
+    .col-md-3{
+        width: 32%;
+    }
+    .col-md-9{
+        width: 68%;
+    }
+    .modal-body p{
+        padding: 0px;
+    }
+    .join_waitlist_blue{
+        padding: 18px 84px;
+    }
+    .custom-form-control {
+        margin: 2px;
+        width: 44px;
+        height: 44px;
+    }
+    
+}
+@media (max-width: 346px) { 
+    .col-md-3{
+        width: 35%;
+    }
+    .col-md-9{
+        width: 65%;
+    }
+    .custom-form-control {
+        margin: 2px;
+        width: 42px;
+        height: 42px;
+    }
+    .modal-content{
+        margin: 0px;
+    }
+}
+@media (max-width: 263px) { 
+    .col-md-3{
+        width: 49%;
+    }
+    .col-md-9{
+        width: 51%;
+    }
+    .modal-content {
+        margin: 0px;
+    }
+    .join_waitlist_blue{
+        padding: 18px 34px;
+    }
+}
+@media (max-width: 250px) { 
+    .col-md-3{
+        width: 44%;
+    }
+    .col-md-9{
+        width: 56%;
+    }
+    .modal-content {
+        margin: 0px;
+    }
+}
+
+::placeholder {
+    color:#000;
+}
+.grid {
+display: grid !important;
+}

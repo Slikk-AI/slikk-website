@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fb0"/>
+      <stop offset="1" stop-color="#ff6ba4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6ba4"/>
+      <stop offset="1" stop-color="#fb0"/>
+    </linearGradient>
+    <clipPath id="clip-Slikk-Logo-Whitebackground">
+      <rect width="1366" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="Slikk-Logo-Whitebackground" clip-path="url(#clip-Slikk-Logo-Whitebackground)">
+    <g id="logo" transform="translate(-272 -39)">
+      <g id="Icon" transform="translate(329 222)">
+        <g id="Group_20" data-name="Group 20" transform="translate(4.306 114.61)">
+          <path id="Path_95" data-name="Path 95" d="M42.47.064c9.6-.783,16.742,5.744,15.96,14.577L34.812,281.213c-.783,8.833-9.2,16.629-18.794,17.411S-.724,292.88.059,284.047L23.676,17.475C24.458,8.642,32.873.846,42.47.064Z" transform="matrix(0.848, 0.53, -0.53, 0.848, 158.28, 1.963)" fill="url(#linear-gradient)"/>
+          <path id="Path_96" data-name="Path 96" d="M15.877.067c9.541.807,17.93,8.668,18.738,17.557L59.563,292.309c.807,8.889-6.273,15.44-15.814,14.633s-17.93-8.668-18.738-17.557L.063,14.7C-.745,5.811,6.336-.74,15.877.067Z" transform="translate(384.222 254.523) rotate(146)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <path id="Path_94" data-name="Path 94" d="M45,0A45,45,0,1,1,0,45,45,45,0,0,1,45,0Z" transform="translate(150 284.889)" fill="#fb0"/>
+        <path id="Path_1743" data-name="Path 1743" d="M45,0A45,45,0,1,1,0,45,45,45,0,0,1,45,0Z" transform="translate(0 158)" fill="#00d65c"/>
+        <path id="Path_1742" data-name="Path 1742" d="M45,0A45,45,0,1,1,0,45,45,45,0,0,1,45,0Z" transform="translate(304 158)" fill="#00c4ff"/>
+        <ellipse id="Ellipse_62" data-name="Ellipse 62" cx="42.5" cy="43" rx="42.5" ry="43" transform="translate(152)" fill="#ff6ba4"/>
+      </g>
+      <g id="Group_997" data-name="Group 997" transform="translate(857.517 244.754)">
+        <g id="Team_Leap_Logo" data-name="Team Leap Logo" transform="translate(0 0)">
+          <g id="TL" transform="translate(0 0)">
+            <g id="TL-2" data-name="TL" transform="translate(0 0)">
+              <g id="Brand-name" transform="translate(0 0)">
+                <g id="Group_4" data-name="Group 4">
+                  <g id="Group_5" data-name="Group 5">
+                    <g id="logo-2" data-name="logo">
+                      <text id="Slikk" transform="translate(0.483 300.247)" fill="#2900ff" font-size="296" font-family="UrbaneRounded-DemiBold, Urbane Rounded" font-weight="300"><tspan x="0" y="0">Slikk</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

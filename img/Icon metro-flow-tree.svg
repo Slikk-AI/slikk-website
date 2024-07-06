@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99.83" height="99.83" viewBox="0 0 99.83 99.83">
+  <defs>
+    <filter id="Icon_metro-flow-tree" x="0" y="0" width="99.83" height="99.83" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_metro-flow-tree)">
+    <path id="Icon_metro-flow-tree-2" data-name="Icon metro-flow-tree" d="M79.233,64.38V54.265A15.234,15.234,0,0,0,64,39.03H55.293A6.531,6.531,0,0,1,48.764,32.5V22.386a10.446,10.446,0,1,0-8.705,0V32.5A6.531,6.531,0,0,1,33.53,39.03H24.824A15.234,15.234,0,0,0,9.59,54.265V64.38a10.446,10.446,0,1,0,8.705,0V54.265a6.531,6.531,0,0,1,6.529-6.529H33.53a15.076,15.076,0,0,0,6.529-1.523V64.38a10.446,10.446,0,1,0,8.705,0V46.212a15.076,15.076,0,0,0,6.529,1.523H64a6.531,6.531,0,0,1,6.529,6.529V64.38a10.446,10.446,0,1,0,8.705,0ZM44.411,6.886a6.028,6.028,0,1,1-6.024,6.028A6.024,6.024,0,0,1,44.411,6.886ZM13.943,79.88a6.028,6.028,0,1,1,6.024-6.028,6.028,6.028,0,0,1-6.024,6.028Zm30.469,0a6.028,6.028,0,1,1,6.024-6.028,6.028,6.028,0,0,1-6.024,6.028Zm30.469,0A6.028,6.028,0,1,1,80.9,73.852,6.028,6.028,0,0,1,74.88,79.88Z" transform="translate(5.5 3.53)" fill="#5433ff"/>
+  </g>
+</svg>

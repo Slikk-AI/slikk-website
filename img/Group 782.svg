@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121.629" height="121.629" viewBox="0 0 121.629 121.629">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.837" y1="0.168" x2="0.183" y2="0.85" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#20bdff"/>
+      <stop offset="1" stop-color="#5433ff"/>
+    </linearGradient>
+    <filter id="logo-background" x="0" y="0" width="121.629" height="121.629" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Growth_bar_2" x="24.786" y="26.18" width="66.844" height="26.962" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_782" data-name="Group 782" transform="translate(5002.271 7745.5)">
+    <g transform="matrix(1, 0, 0, 1, -5002.27, -7745.5)" filter="url(#logo-background)">
+      <path id="logo-background-2" data-name="logo-background" d="M47.314,0A47.314,47.314,0,1,1,0,47.314,47.314,47.314,0,0,1,47.314,0Z" transform="translate(13.5 13.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Hapto-icon" transform="translate(-4982.359 -7716.609)">
+      <g transform="matrix(1, 0, 0, 1, -19.91, -28.89)" filter="url(#Growth_bar_2)">
+        <rect id="Growth_bar_2-2" data-name="Growth bar 2" width="8.962" height="48.844" rx="4.481" transform="translate(33.79 44.14) rotate(-90)" fill="#fff"/>
+      </g>
+      <rect id="Growth_bar_1" data-name="Growth bar 1" width="8.962" height="37.236" rx="4.481" transform="translate(25.383 9.251)" fill="#fff"/>
+      <rect id="Growth_bar_1-2" data-name="Growth bar 1" width="8.962" height="14.236" rx="4.481" transform="translate(39.617 37.764) rotate(89)" fill="#fff"/>
+      <g id="Growth_Arrow" data-name="Growth Arrow" transform="matrix(0.883, -0.469, 0.469, 0.883, 14.639, 59.692)">
+        <path id="Path_5" data-name="Path 5" d="M2.38.022S14.757,11.219,27.1,11.4,52.212,1.251,52.212,1.251C53.66-.21,55.9,2.488,55.922,4.393h0c.006,3.047-1.23,3.4-2.624,4.372,0,0-13.788,9.092-26.131,8.908S.055,6.289.035,4.384l-.01-.949C0,1.53,1.059,0,2.38.022Z" transform="matrix(0.999, 0.035, -0.035, 0.999, 0.483, 0.533)" fill="#fff"/>
+        <path id="Path_6" data-name="Path 6" d="M.538-.049S3.432,8.209,6.673,8.072,13.5-.6,13.5-.6c.347-.015.582,1.15.526,2.6L14,2.729c-.056,1.452-.383,2.64-.73,2.655,0,0-3.542,7.331-6.783,7.467S.306,5.931.306,5.931c-.347.015-.582-1.15-.526-2.6l.028-.723C-.135,1.155.191-.034.538-.049Z" transform="matrix(-0.375, -0.927, 0.927, -0.375, 54.903, 13.834)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

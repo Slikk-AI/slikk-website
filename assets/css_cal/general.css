@@ -1,0 +1,59 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+	font-family: "Inter", sans-serif;
+	color: #222222;
+}
+
+a {
+	color: #222222;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #5fe3b0;
+	text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Inter", sans-serif;
+}
+
+.tooltipClass {
+    position: relative;
+}
+
+.tooltipClass::after {
+    content: "Copied";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: black;
+    color: #FFF;
+    border-radius: 5px;
+    font-size: 10px;
+    width: 60px;
+    height: 25px;
+    left: -22px;
+}
+
+.tooltipClass::before {
+    content: '';
+    width: 0; 
+	height: 0; 
+	border-left: 5px solid transparent;  /* left arrow slant */
+	border-right: 5px solid transparent; /* right arrow slant */
+	border-bottom: 5px solid #2f2f2f; /* bottom, add background color here */
+	font-size: 0;
+	line-height: 0;
+    position: absolute;
+    bottom: -10%;
+    left: 5px;
+}

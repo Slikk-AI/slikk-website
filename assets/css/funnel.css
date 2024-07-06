@@ -1,0 +1,266 @@
+
+
+.cta {
+    color: #FBFF1F;
+    font-family: "Poppins", Sans-serif;
+    font-size: 43px;
+    background: #f40000;
+    border: navajowhite;
+    width: 100%;
+}
+
+.verdana {
+	   
+    font-family: "Verdana", Sans-serif;
+   
+}
+	  
+	.main-title {
+		    font-weight: 700;
+		 font-size: 51px;
+    line-height: 51px;
+		 color: #F40000;
+	}
+	.ptop-12 {
+		padding-left: 12%;
+    padding-right: 12%;
+    margin-bottom: 30px;
+	}
+
+    .ptop-20 {
+		padding-left: 20%;
+    padding-right: 20%;
+	}
+
+    .ptop-25 {
+		padding-left: 25%;
+   
+	}
+
+    .bg-1{
+       background: #FFFFFF;
+    }
+    
+    .bg-2{
+        background: #FAFC9E;
+    }
+
+    .bg-3{
+        background: #E9F8CC;
+    }
+
+    .bg-4{
+        background: #F8EDCC;
+    }
+
+    .bg-5{
+        background: #FFFFFF;
+    }
+
+    .bg-6{
+        background: #EED8FF;
+    }
+    .bg-7{
+        background: #D8FDFF;
+    }
+
+    .bg-8{
+        background: #f1f1f1;
+    }
+
+    
+    .h2_class{
+        font-family: "Poppins", Sans-serif;
+        font-size: 59px;
+        line-height: 71px;
+        -webkit-text-stroke: 0px;
+        stroke-width: 0px;
+        -webkit-text-stroke-color: #000;
+        stroke: #000;
+        text-shadow: 0px 0px 0px rgb(0 0 0 / 30%);
+        font-weight: 700;
+    
+    }
+
+    .mt-50 {
+        margin-top: 50px;
+    }
+    .sub-head{
+        margin-bottom: 1.6em;
+        font-style: italic;
+    }
+
+    .jumbotron {
+        margin-bottom: 0px;
+    }
+
+    .cta-2 {
+        color: #FFFFFF;
+        font-family: "Poppins", Sans-serif;
+        font-size: 43px;
+
+    }
+
+    .down_img {
+      
+            width: 150px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        
+    }
+    .alata {
+      
+    font-family: "Alata", Sans-serif;
+    font-size:3.3333333333333rem;
+
+    }
+    .alata_padding {
+    padding: 30px;}
+
+    .card-150 {
+        width: 150px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .card-150-bg1 {
+        background-color: #FEFFE9;
+    }
+
+    .card-150-bg2 {
+        background-color: #FDEBEB;
+    }
+
+    .card-150-bg3 {
+        background-color: #D0C7F6;
+    }
+
+
+
+
+  .check_icon i {
+    font-size: 44px;
+    font-family: elementskit!important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    /* padding: 10px; */
+}
+
+.text_icon {
+    text-align: left;
+    margin-bottom: 1.6em;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.pad-10 {
+margin-bottom: 30px;
+}
+
+.mar-b {
+    margin-bottom: auto;
+}
+
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+/* ---------------------- */
+/*       TESTIMONIAL      */
+/* ---------------------- */
+.parallax-section{
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+#testimonial{
+	padding: 30px 0 20px;
+	background-image: url(../images/bg-testimonial.jpg);
+}
+#testimonial .overlay{
+    background: #fff;
+   
+    -webkit-box-shadow: 9px 11px 14px 0 rgb(0 0 0 / 10%);
+    box-shadow: 9px 11px 14px 0 rgb(0 0 0 / 10%);
+}
+.ts-testimonial-slide{
+	text-align: left;
+	color: #000;
+	width: 85%;
+	margin: 0 auto;
+}
+.ts-testimonial-slide p{
+	font-size: 24px;
+	line-height: 36px;
+	font-style: italic;
+	font-family: 'Droid Serif';
+	margin-bottom: 35px;
+}
+.ts-testimonial-slide .ts-testimonial-item {
+  margin-bottom: 15px;
+}
+.ts-testimonial-slide .ts-testimonial-item .icon-client{
+	background: #ffffff;
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+	border-radius: 50%;
+	float: left;
+	text-align: center;
+	line-height: 29px;
+	margin-top: 2px;
+}
+.ts-testimonial-slide .ts-testimonial-item .infor-client {
+  display: inline-block;
+  margin: 0 auto;
+  width: auto;
+}
+.ts-testimonial-slide .ts-testimonial-item  .client-name{
+	padding-left: 38px;
+	font-size: 12.8px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-family: 'Montserrat';
+	display: block;
+	line-height: normal;
+	white-space: nowrap;
+}
+.ts-testimonial-slide .ts-testimonial-item  .client-position{
+	font-size: 12px;
+	font-style: italic;
+	line-height: normal;
+	padding-left: 38px;
+	display: block;
+	text-align: left;
+}
+.ts-testimonial-slide .ts-testimonial-item  .client-position a{
+	color: white;
+}
+.ts-testimonial-slide .ts-testimonial-item  .client-position a:hover{
+	color: #5ed9e7;
+}
+
+.checked {
+    color: orange;
+  }
+
+  .w-100 {
+
+    width: 100%;
+  }

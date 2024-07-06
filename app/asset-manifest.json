@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c016dacc.css",
+    "main.js": "/static/js/main.b3b519da.js",
+    "static/js/787.b8a4a24d.chunk.js": "/static/js/787.b8a4a24d.chunk.js",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.1711b41f3ae4cb322eea.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.8be2d1487420548b3b8d.ttf",
+    "static/media/UrbaneRounded-Bold.ttf": "/static/media/UrbaneRounded-Bold.e025eb5b5d7ee7308507.ttf",
+    "static/media/profile.png": "/static/media/profile.db032c97d1a71b9d1437.png",
+    "static/media/settings.svg": "/static/media/settings.e5831cfae3b1cbc735bf8e6c6f928697.svg",
+    "static/media/notification.svg": "/static/media/notification.29a21bc88b6b61e42c762984270be37b.svg",
+    "static/media/hapto-logo.svg": "/static/media/hapto-logo.1df4d22c15b10fc1f08c0e7737154503.svg",
+    "static/media/calendar.svg": "/static/media/calendar.5702dbc6f057a463ce1ebf5e865c393c.svg",
+    "static/media/add.svg": "/static/media/add.ca8b7da657c85dceccc2f73679bc864f.svg",
+    "static/media/star.svg": "/static/media/star.7ba5507c293c74011a2de5707523e849.svg",
+    "static/media/mail.svg": "/static/media/mail.d410a0f81354fc9508c5a5dcb978e424.svg",
+    "index.html": "/index.html",
+    "static/media/project.svg": "/static/media/project.5dfae3a08414e57872886b20e9cb3d3d.svg",
+    "main.c016dacc.css.map": "/static/css/main.c016dacc.css.map",
+    "main.b3b519da.js.map": "/static/js/main.b3b519da.js.map",
+    "787.b8a4a24d.chunk.js.map": "/static/js/787.b8a4a24d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c016dacc.css",
+    "static/js/main.b3b519da.js"
+  ]
+}
