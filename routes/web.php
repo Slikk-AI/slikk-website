@@ -178,6 +178,7 @@ Route::get('/join-us', 'PageController@join');
 Route::get('/privacy-policy', 'PageController@privacy');
 Route::get('/security', 'PageController@security');
 Route::get('/terms', 'PageController@terms');
+Route::get('/cookie-policy', 'PageController@cookie_policy');
 Route::get('/dummy', 'PageController@dummy');
 Route::get('/testingheader', 'PageController@testingheader');
 Route::get('/newdesign', 'PageController@newdesign');

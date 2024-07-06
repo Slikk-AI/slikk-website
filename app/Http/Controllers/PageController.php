@@ -128,6 +128,11 @@ class PageController extends Controller
         $data['Title'] = 'Terms and Conditions';
         return view('frontend.pages.terms', $data);
     }
+    function cookie_policy()
+    {
+        $data['Title'] = 'Cookie Policy';
+        return view('frontnew.cookie', $data);
+    }
     function security()
     {
         $data['Title'] = 'Security';
