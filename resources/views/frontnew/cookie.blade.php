@@ -61,6 +61,11 @@
                     <div class="margin-top margin-xlarge">
                         <div class="legal-rich-text w-richtext">
     <h1>Cookie Policy</h1>
+
+
+  <p>This Cookie Policy outlines the types of cookies by EOD AI Technologies Private Limited, a company registered under the laws of India at 115 D North Block Tidel Park Mambalam Chennai , Tamil Nadu.(hereinafter referred to as "Slikk AI") utilizes in our services and provides information on how you can manage them.</p>
+
+
     <p>This Cookie Policy outlines the types of cookies by EOD AI Technologies Private Limited, a company registered under the laws of India at 115 D North Block Tidel Park Mambalam Chennai, Tamil Nadu (hereinafter referred to as "Slikk AI") utilizes in our services and provides information on how you can manage them.</p>
     
     <h2>Types of Cookies</h2>
