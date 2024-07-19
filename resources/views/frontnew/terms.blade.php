@@ -52,12 +52,12 @@
         <div class="container-large">
             <div class="padding-vertical padding-xhuge">
                 <h1 class="text-weight-medium text-color-purple"><span class="bg-background">Terms of Use</span></h1>
-                <div class="margin-top margin-medium"><div>These Terms of Use are effective as of April, 2022.                                </div></div>
+                <div class="margin-top margin-medium"><div>These Terms of Use are effective as of July, 2024. <br><br>                              </div></div>
                 <div class="margin-top margin-xlarge">
                     <div class="legal-rich-text w-richtext">
-                        <p><b style="color:#000;">Thank you for using EOD AI Technologies  Private Limited!
+                        <p><b style="color:#000;">Thank you for using EOD AI Technologies  Private Limited!<br>
                             These Terms of Use apply to your use of EOD AI Technologies Private Limited, including any associated software applications and websites (all together, “Services”). These Terms form an agreement between you and EOD AI Technologies Private Limited, and they include our Service Terms and important provisions for resolving disputes through arbitration. By using our Services, you agree to these Terms.</b></p>
-                        <p><b style="color:#000;">Our <a href="privacy-policy.html" style="color:#5433FF;">Privacy Policy</a>&nbsp;explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.</b></p>
+                        <p><b style="color:#000;">Please Read <a href="privacy-policy.html" style="color:#5433FF;">Privacy Policy</a>&nbsp;carefully. By using any of the Services, you agree to the collection, use, and disclosure of your information as described herein. If you do not agree with this Privacy Policy, please do not use or access the Services</b></p>
                         <p><b style="color:#000;">ARBITRATION NOTICE: UNLESS YOU OPT-OUT AND EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE ARBITRATION SECTION BELOW, YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.</b></p>
         
                         <h2>Your User Account and Content</h2>
@@ -98,7 +98,18 @@
                         
                         <ol start="8">
                         <li>
-                        In the event you have a paid account, fees are non-refundable except as required by law or in the event that you cancel your account during the 30-day money back guarantee period. You will pay all applicable fees when due and, if such fees are being paid via credit card or other electronic means, you authorize us to charge such fees using your selected payment method. By default, customer accounts are set to auto-renew and we may automatically charge you for such renewal on or after the renewal date associated with your account unless you have cancelled the Service prior to its renewal date. We may revise fee rates for the Service from time to time and will provide you with email notice of any changes in fees at least thirty (30) days prior to your Service renewal date. You are responsible for providing complete and accurate billing information to slikk. We may suspend or terminate your use of the Service if fees become past due. You are responsible for all taxes (excluding taxes on our net income), and we will charge tax if required to do so by law.
+                        In the event you have a paid account,
+                        <ul>
+                            <li><b>Billing</b><br>
+                            If you purchase any Services, you will provide complete and accurate billing information, including a valid payment method. For paid subscriptions, we will automatically charge your payment method on each agreed-upon periodic renewal until you cancel. You’re responsible for all applicable taxes, and we’ll charge tax when required. If your payment cannot be completed, we may downgrade your account or suspend your access to our Services until payment is received. 
+                            </li>
+                            <li><b>Cancellation</b><br>
+                            We may change our prices from time to time. If we increase our subscription prices, we will give you at least 30 days’ notice and any price increase will take effect on your next renewal so that you can cancel if you do not agree to the price increase. 
+                            </li>
+                            <li><b>Changes</b><br>
+                            We may change our prices from time to time. If we increase our subscription prices, we will give you at least 30 days’ notice and any price increase will take effect on your next renewal so that you can cancel if you do not agree to the price increase. 
+                            </li>
+                        </ul>    
                             <p><br>If you require the use of a purchase order or purchase order number, you (a) must provide the purchase order number at the time of purchase; and (b) agree that any terms and conditions on your purchase order will not apply and are null and void.</p>
                         </li>
                         </ol>
@@ -110,41 +121,41 @@
                             For paid accounts, we provide a <b>satisfaction guarantee</b>&nbsp;for all services. If you aren't satisfied for <b>any</b>&nbsp;reason, simply contact us within 30 days, and we'll be happy to issue a full refund. Kindly note, however, that we reserve the right to revoke refund privileges (on an individual basis) if we determine abuse of this policy has occurred. </li>
                         </ol>
 
-                        <h2>Your Use of Our Service</h2>
-                        <ol start="1">
-                        <li>
-                        You must not change, modify, adapt, or alter the Service or change, modify, or alter another website so as to falsely imply that it is associated with the Service or with us.</li>
-                        </ol>
-                        <p class="c1 c20 c6"></p>
-                        <ol start="2">
-                        <li>
-                        You must not access our private API by means other than those expressly permitted by us.</li>
-                        </ol>
+                        <h2>Using our Services</h2>
+                        <b>What you can do</b><br>
+                        Subject to your compliance with these Terms, you may access and use our Services. In using our Services, you must comply with all applicable laws as well as our [Sharing & Publication Policy], [Usage Policies], and any other documentation, guidelines, or policies we make available to you.<br><br>
+
+                        <b>What you cannot do</b><br>
+                        You may not use our Services for any illegal, harmful, or abusive activity. For example, you may not:<br><br>
+
+                        <ul>
+                            <li>Use our Services in a way that infringes, misappropriates or violates anyone’s rights.</li>
+                            <li>Modify, copy, lease, sell or distribute any of our Services.</li>
+                            <li>Attempt to or assist anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law).</li>
+                            <li>Automatically or programmatically extract data or Output (defined below).</li>
+                            <li>Represent that Output was human-generated when it was not.</li>
+                            <li>Interfere with or disrupt our Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations we put on our Services.</li>
+                            <li>Use Output to develop models that compete with EOD AI Technologies Private Limited.</li>
+                        </ul>
+
+                        <b>When you use our Services you understand and agree:<b><br>
                         
-                        <ol start="3">
-                        <li>
-                        You must not interfere or disrupt the Service or servers or networks connected to the Service, including by transmitting any worms, viruses, spyware, malware, or any other code of a destructive or disruptive nature. You may not inject content or code or otherwise alter or interfere with the way any our page is rendered or displayed in a user's browser or device.</li>
-                        </ol>
-                        
-                        <ol start="4">
-                        <li>
-                        You must not attempt to restrict another user from using or enjoying the Service and you must not encourage or facilitate violations of these Terms or any of our other terms.</li>
-                        </ol>
-                        
-                        <ol start="5">
-                        <li>
-                        As part of the Service, we may provide downloadable client software (the “Software”) for your use in connection with the Service. This Software may update automatically and if such Software is designed for use on a specific mobile or desktop operating system, then a compatible system is required for use. So long as you comply with these Terms, we grant you a limited, nonexclusive, nontransferable, revocable license to use the Software, solely to access the Service; provided, however, that this license does not constitute a sale of the Software or any copy thereof, and as between you and us, we retain all right, title and interest in the Software. You agree that you will not copy, reproduce, republish, frame, download, transmit, modify, display, reverse engineer, sell, or participate in any sale of, rent, lease, loan, assign, distribute, license, sublicense, or exploit in any way, in whole or in part, Our Content, the Services or any related software, except as expressly stated in these Terms.</li>
-                        </ol>
-                        
-                        <ol start="6">
-                        <li>
-                        Violation of these Terms may, in our sole discretion, result in termination of your account. Furthermore, we reserve the right to investigate and prosecute violations of any of these Terms to the fullest extent of the law. We may involve and cooperate with law enforcement authorities in prosecuting Users who violate the Terms. You acknowledge that we have no obligation to prescreen or monitor your access to or use of our Service or any information, materials or other content provided or made available through our Service, but has the right to do so. You hereby agree that we may, in the exercise of our sole discretion, remove or delete any data, accounts or other content that violates these Terms or that is otherwise objectionable.</li>
-                        </ol>
-                        
-                        <ol start="7">
-                        <li>
-                        If you elect to utilize any third party application in connection with your use of the Service, by doing so you are consenting to your Content being shared with such third party application. To understand how such third party application provider utilizes your Content and other information, you should review their privacy policy.</li>
-                        </ol>
+
+                        <ul>
+                            <li>Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information, or as a substitute for professional advice.</li>
+                            <li>You must evaluate Output for accuracy and appropriateness for your use case, including using human review as appropriate, before using or sharing Output from the Services.</li>
+                            <li>You must not use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about them.</li>
+                            <li>Our Services may provide incomplete, incorrect, or offensive Output that does not represent EOD AI Technologies Private Limited's views. If Output references any third party products or services, it doesn’t mean the third party endorses or is affiliated with EOD AI Technologies Private Limited.
+</li>
+                            <li>Represent that Output was human-generated when it was not.</li>
+                            <li>Interfere with or disrupt our Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations we put on our Services.</li>
+                            <li>Use Output to develop models that compete with EOD AI Technologies Private Limited.</li>
+                        </ul>
+
+
+
+
+
 
                         <h2>General Conditions</h2>
                         <ol start="1">
@@ -205,26 +216,30 @@
                         <h2 class="block-privacy__subtitle">Rights</h2>
                         <ol start="1">
                         <li>
-                        <b>Ownership.</b> For purposes of these Terms: (i) "Content" means any data, text, files, information, usernames, images, graphics, photos, profiles, audio and video clips, sounds, musical works, works of authorship, applications, links, created tasks and associated information, text, files and other content or materials; and (ii) "User Content" means any Content that Account holders (including you) provide to be made available through the Services. Content includes without limitation User Content.</li>
+                        For purposes of these Terms: "Content" means you may provide input to the Services (“Input”), and receive output from the Services based on the Input (“Output”). Input and Output are collectively “Content.” You are responsible for Content, including ensuring that it does not violate any applicable law or these Terms. You represent and warrant that you have all rights, licenses, and permissions needed to provide Input to our Services.<br><br>
+                        </li>
+                        <li><b>Ownership of the Content</b><br>
+                        As between you and EOD AI Technologies Private Limited, and to the extent permitted by applicable law, you (a) retain your ownership rights in Input and (b) own the Output. We hereby assign to you all our right, title, and interest, if any, in and to Output
+                        </li>
                         </ol>
                         
                         <ul start="1">
                         <li>
-                        a. <b>Content Ownership of the Content We Make</b>
+                        <b>Content Ownership of the Content We Make</b>
                             <p>Unless otherwise stated, all materials contained on or within the Services, including, but not limited to, text, graphics, images, code, illustrations, designs, icons, photographs, video clips, and written and other materials (collectively, "slikk Content"), as well as their selection and arrangement, are protected by copyright, trademark, trade dress, patent, and/or other intellectual property laws, and unauthorized use of slikk Content may violate such laws and these Terms. Except as expressly provided in these Terms, we do not grant any express or implied rights to use slikk Content. You agree that you will not copy, reproduce, republish, frame, download, transmit, modify, display, reverse engineer, sell, or participate in any sale of, rent, lease, loan, assign, distribute, license, sublicense, or exploit in any way, in whole or in part, slikk Content, the Services or any related software or Client Software as defined above, except as expressly stated in these Terms. You agree not to remove, alter, or obscure any copyright, trademark, service mark, or other proprietary rights notices incorporated in or accompanying the Services or Content. You acknowledge that the Services and Content are protected by copyright, trademark, and other laws of the United States and foreign countries.</p>
                         </li>
                         </ul>
                         
                         <ul start="2">
                         <li>
-                        b. <b>Rights in User Content</b>
+                        <b>Rights in User Content</b>
                             <p>We claim no ownership rights over the Content submitted or created exclusively by you in your slikk Service account. Any Content that is yours remains yours. These Terms of Service do not grant us any licenses or rights to your Content except for the limited rights needed for us to provide the slikk Service to you. Notwithstanding the foregoing, we may access Content to determine how we can improve our Service, and to determine customer satisfaction.<br>Similarly, any reporting data we collect from your use of the slikk Service remains yours. By using the slikk Service you agree that we can use this data to provide the slikk Service to you, and you also agree that as long as the data is anonymized and does not identify you, we can combine this data with the anonymized data of other companies to provide benchmarking, public reports or to otherwise use it to provide the slikk Service.</p>
                         </li>
                         </ul>
                         
                         <ul start="3">
                         <li>
-                        c. <b>Alerts and Notification</b>
+                        <b>Alerts and Notification</b>
                             <p>As part of the Services we provide, you may (if enabled) receive push notifications, text messages, alerts, emails, or other types of messages directly sent to you outside or inside the App ("Notifications"). You have control over the Notifications settings, and can opt in or out of these Notifications through the Services (with the possible exception of infrequent, important service announcements and administrative messages).</p>
                         </li>
                         </ul>
@@ -274,13 +289,13 @@
                             <p><br>This license is revocable at any time. This license is subject to these Terms and does not include:</p>
                             <ul start="4">
                             <li>
-                                d. The distribution, public performance, or public display of Our Content;</li>
-                            <li>e. Modifying or otherwise making any derivative uses of the Services or Our Content, or any portion thereof;</li>
-                            <li>f. Use of any scraping, data mining, robots, or similar data gathering or extraction methods;</li>
-                            <li>g. Downloading (other than page caching) any portion of the Services, Our Content, or any information contained therein, except as expressly permitted on the Services;</li>
-                            <li>h. Accessing our API with an unauthorized or third-party client; and</li>
-                            <li>i. Any use of the Services or Our Content other than for their intended purposes.</li>
-                            <li>j. Any use of the Services or Our Content other than as specifically authorized in these Terms, without our prior written permission, is strictly prohibited and will terminate the license to use our Service and Site granted in these Terms. </li>
+                                The distribution, public performance, or public display of Our Content;</li>
+                            <li>Modifying or otherwise making any derivative uses of the Services or Our Content, or any portion thereof;</li>
+                            <li>Use of any scraping, data mining, robots, or similar data gathering or extraction methods;</li>
+                            <li>Downloading (other than page caching) any portion of the Services, Our Content, or any information contained therein, except as expressly permitted on the Services;</li>
+                            <li>Accessing our API with an unauthorized or third-party client; and</li>
+                            <li>Any use of the Services or Our Content other than for their intended purposes.</li>
+                            <li>Any use of the Services or Our Content other than as specifically authorized in these Terms, without our prior written permission, is strictly prohibited and will terminate the license to use our Service and Site granted in these Terms. </li>
                             </ul>
                         
                         </li>
@@ -300,23 +315,29 @@
                         </li>
                         </ol>
 
-                        <h2>Reporting Copyright and Other IP Violations</h2>
+                        <h2>Copyright Complaints</h2>
         
-                        <p>It is our policy to respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act ("DMCA"). If you believe your work has been copied in a way that constitutes copyright infringement, please provide a notice containing all of the following information to our Copyright Agent<sup><a href="#cmnt2" id="cmnt_ref2">[b]</a></sup><sup><a href="#cmnt3" id="cmnt_ref3">[c]</a></sup>:</p>
+                        <p>If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form]. We may delete or disable content that we believe violates these Terms or is alleged to be infringing and will terminate accounts of repeat infringers where appropriate.</p><br>
+
+                        115 D North Block Tidel Park Mambalam Chennai , Tamil Nadu<br><br>
+
+                       <p> Written claims about copyrights infringements must include the following information:</p>
+
+
                         <ul>
-                            <li>a. An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;</li>
-                            <li>b. A description of the copyrighted work that you claim has been infringed;</li>
-                            <li>c. A description of where the material that you claim is infringing is located on our site(s);</li>
-                            <li>d. Your address, telephone number, and e-mail address;</li>
-                            <li>e. A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and</li>
-                            <li>f. A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.</li>
+                            <li>An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;</li>
+                            <li>A description of the copyrighted work that you claim has been infringed;</li>
+                            <li>A description of where the material that you claim is infringing is located on our site(s);</li>
+                            <li>Your address, telephone number, and e-mail address;</li>
+                            <li>A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and</li>
+                            <li>A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.</li>
                         </ul>
                         
                         
                         
                         <p>We reserve the right to remove Content alleged to be infringing without prior notice and at our sole discretion. In appropriate circumstances, we will also terminate a user’s account if the user is determined to be a repeat infringer.</p>
                         
-                        <p>Our Copyright Agent for Notice of claims of copyright infringement on the Site is Chase Neely, who can be reached as follows: <a href="mailto:platform@slikk.ai" style="color:#5433FF">platform@slikk.ai</a></p>
+                        <p>Our Copyright Agent for Notice of claims of copyright infringement on the Site is Chase Neely, who can be reached as follows: <a href="mailto:info@slikk.ai" style="color:#5433FF">info@slikk.ai</a></p>
                         
                         
                         <h2>Disclaimer of Warranties</h2>
@@ -353,7 +374,7 @@ EOD AI Technologies Private Limited’ AFFILIATES, SUPPLIERS, LICENSORS, AND DIS
                         
                         <h2>Mandatory Arbitration</h2>
                         
-                        <p>Except if you opt-out or for disputes relating to your or our intellectual property (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents ("Excluded Disputes"), you agree that all disputes between you and us (whether or not such dispute involves a third party) with regard to your relationship with us, including without limitation disputes related to these Terms, your use of the Service, and/or rights of privacy and/or publicity, will be resolved by binding, individual arbitration under the American Arbitration Association's rules for arbitration of consumer-related disputes and you and we hereby expressly waive trial by jury. You may bring claims only on your own behalf. Neither you nor we will participate in a class action or class-wide arbitration for any claims covered by this agreement. You also agree not to participate in claims brought by a private attorney, in a general or representative capacity, or consolidated claims involving another person's account, if we are a party to the proceeding. This dispute resolution provision will be governed by the Federal Arbitration Act. In the event the American Arbitration Association is unwilling or unable to set a hearing date within one hundred and sixty (160) days of filing the case, then either we or you can elect to have the arbitration administered instead by the Judicial Arbitration and Mediation Services. Judgment on the award rendered by the arbitrator may be entered in any court having competent jurisdiction. Any provision of applicable law notwithstanding, the arbitrator will not have authority to award damages, remedies or awards that conflict with these Terms.</p>
+                        <p>You and EOD AI Technologies Private Limited agree to resolve any claims arising out of or relating to these Terms or our Services, regardless of when the claim arose, even if it was before these Terms existed (a “Dispute”), through final and binding arbitration. You may opt out of arbitration within 30 days of account creation or of any updates to these arbitration terms within 30 days after the update has taken effect by filling out [this form]. If you opt out of an update, the last set of agreed upon arbitration terms will apply..</p>
                         <p>You may opt out of this agreement to arbitrate, as specified above. If you do so, neither you nor we can require the other to participate in an arbitration proceeding. To opt out, you must notify us in writing within 30 days of the date that you first became subject to this arbitration provision. You must use this address to opt out:</p>
                         <p>EOD AI TECHNOLOGIES PRIVATE LIMITED<br>ATTN: Privacy Agent slikk<br>115 D North Block, Tidel Park, Mambalam<br>Chennai, Tamilnadu 622002</p>
                         <p>You must include your name and residence address, the phone number and username that you use for your account, and a clear statement that you want to opt out of this arbitration agreement.</p>
@@ -363,18 +384,39 @@ EOD AI Technologies Private Limited’ AFFILIATES, SUPPLIERS, LICENSORS, AND DIS
                         
                         <p>You agree that any claim you may have arising out of or related to your relationship with us must be filed within one year after such claim arose; otherwise, your claim is permanently barred. </p>
                         
-                        <h2>Governing Law &amp; Venue</h2>
+                        <h2>Governing Law</h2>
                         
-                        <p>These Terms are governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law AND WILL SPECIFICALLY NOT BE GOVERNED BY THE UNITED NATIONS CONVENTIONS ON CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS, IF OTHERWISE APPLICABLE. For any action at law or in equity relating to the arbitration provision of these Terms, the Excluded Disputes or if you opt out of the agreement to arbitrate, you agree to resolve any dispute you have with us exclusively in a state or federal court located in ASHBURN, Virginia 20148, US, and to submit to the personal jurisdiction of the courts located in ASHBURN, Virginia 20148, US for the purpose of litigating all such disputes.</p>
+                        <p>California law will govern these Terms except for its conflicts of laws principles. Except as provided in the dispute resolution section above, all claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco, California.</p>
                         
                         
                         <h2>Termination</h2>
                         
-                        <p>We may terminate this Agreement at any time, with or without notice, for any reason.</p>
+                        <p>You are free to stop using our Services at any time. We reserve the right to suspend or terminate your access to our Services or delete your account if we determine:</p><br><br>
+
+                        <ul>
+                            <li>You breached these Terms or our Usage Policies</li>
+                            <li>We must do so to comply with the law.</li>
+                            <li>Your use of our Services could cause risk or harm to EOD AI Technologies Private Limited, our users, or anyone else.</li> 
+                        </ul><br><br>
+                        <p>We also may terminate your account if it has been inactive for over a year and you do not have a paid account. If we do, we will provide you with advance notice.</p>
+
+                        <h2>Appeals</h2>
+
+                        <p>If you believe we have suspended or terminated your account in error, you can file an appeal with us by contacting our Support team.</p>
+
+
+                        <h2>Discontinuation of Services</h2>
+                        
+                        <p>We may decide to discontinue our Services, but if we do, we will give you advance notice and a refund for any prepaid, unused Services.</p>
+
+                    
+                        
+                    
 
                         <h2>Severability and No Waiver</h2>
         
-                        <p>If any provision of these Terms is held to be unlawful, void, or for any reason unenforceable during arbitration or by a court of competent jurisdiction, then that provision will be deemed severable from these Terms and will not affect the validity and enforceability of any remaining provisions. Our failure to insist upon or enforce strict performance of any provision of these Terms will not be construed as a waiver of any provision or right. No waiver of any of these Terms will be deemed a further or continuing waiver of such term or condition or any other term or condition.</p>
+                        <p>If any part of these arbitration terms is found to be illegal or unenforceable, the remainder will remain in effect, except that if a finding of partial illegality or unenforceability would allow class arbitration, class action, or representative action, this entire dispute resolution section will be unenforceable in its entirety.
+                        </p>
                         
                         <h2>Entire Agreement</h2>
                         
